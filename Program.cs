@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace Assignment1
+namespace gradingSystem
 {
     class Progam
     {
